@@ -3,19 +3,51 @@
 Wizards vs Vampires is a 2D tower defense game built in Java using Swing, where players must defend their magical village from waves of undead enemies. 
 
 ## 🛡️ Characters & Mechanics
-
-| **Defenders (Wizards)** | **Attackers (Undead)** |
-|-------------------------|------------------------|
-| **🧙 Wizard**            | **🧛 Vampire**          |
-| - Ranged unit attacking enemies in its row.  
-  - Low HP, best kept behind tanks.  
-  | - Fast enemy with **LifeSteal**: heals when attacking.  
-  - More dangerous than standard undead. |
-| **🗡️ Warrior**          | **💀 Undead**           |
-| - Melee unit with high HP.  
-  - Ideal frontline tank.  
-  - Summoned by wizards to hold the line. | - Standard necromancer-summoned enemy.  
-  - Slower but appears in large numbers. |
+<table>
+  <thead>
+    <tr>
+      <th>Defenders</th>
+      <th>Attackers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>🧙 Wizard</strong>
+        <ul>
+          <li>Ranged unit attacking enemies in its row.</li>
+          <li>Low HP, best kept behind tanks.</li>
+          <li>Represents a local wizard joining the defense.</li>
+        </ul>
+      </td>
+      <td>
+        <strong>🧛 Vampire</strong>
+        <ul>
+          <li>Fast enemy with <strong>LifeSteal</strong>: heals when attacking.</li>
+          <li>More dangerous than standard undead.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>🗡️ Warrior</strong>
+        <ul>
+          <li>Melee unit with high HP.</li>
+          <li>Ideal frontline tank.</li>
+          <li>Summoned by wizards to hold the line.</li>
+        </ul>
+      </td>
+      <td>
+        <strong>💀 Undead</strong>
+        <ul>
+          <li>Standard necromancer-summoned enemy.</li>
+          <li>Slower but appears in large numbers.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+          |
 
 ## 🎮 Game Features
 - 📦 Built in Java using Swing
