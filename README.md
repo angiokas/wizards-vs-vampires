@@ -47,7 +47,6 @@ Wizards vs Vampires is a 2D tower defense game built in Java using Swing, where 
     </tr>
   </tbody>
 </table>
-          |
 
 ## 🎮 Game Features
 - 📦 Built in Java using Swing
