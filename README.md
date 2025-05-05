@@ -1,6 +1,6 @@
 # 🧙‍♂️ Wizards vs Vampires: A 2D Tower Defense Game
 
-Wizards vs Vampires is a 2D tower defense game built in Java using Swing, where players must defend their magical village from waves of undead enemies. 
+Wizards vs Vampires is a 2D tower defense game built in Java using Swing, where players must defend their magical village from waves of undead enemies. Inspired by the game, Plants vs Zombies. 
 
 ## 🛡️ Characters & Mechanics
 <table>
