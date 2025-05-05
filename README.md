@@ -3,7 +3,7 @@
 Wizards vs Vampires is a 2D tower defense game built in Java using Swing, where players must defend their magical village from waves of undead enemies. 
 
 # 🛡️ Characters & Mechanics
-##👥 Defenders (Wizards)
+## 👥 Defenders (Wizards)
 ### Wizard
 - Ranged unit that attacks enemies in its horizontal line of sight.
 - Low HP; best placed behind tanks.
@@ -14,7 +14,7 @@ Wizards vs Vampires is a 2D tower defense game built in Java using Swing, where 
 - Designed to absorb damage and protect wizards.
 - Ideal for frontline defense.
 
-#🧛 Attackers (Undead)
+# 🧛 Attackers (Undead)
 ### Vampire
 - Fast and deadly with a unique LifeSteal ability—heals when attacking.
 - More dangerous than basic undead.
